@@ -1,0 +1,6 @@
+"id","username","password","firstName","lastName","mobile","imagePath","isAdmin","createdAt","updatedAt"
+2,lcarlick1@furl.net,kUzhyPDAB,Lisle,Carlick,"685-500-0168",/assets/img/avatars/0.jpeg,,2024-12-03 15:48:40.510 +0700,2024-12-03 15:48:40.510 +0700
+3,fochiltree2@nytimes.com,x1Q3NnKVg5oB,Frederich,Ochiltree,"387-491-7478",/assets/img/avatars/1.png,true,2024-12-03 15:48:40.510 +0700,2024-12-03 15:48:40.510 +0700
+4,dblasetti3@wufoo.com,vY3dpY,Dorolisa,Blasetti,"768-449-9990",/assets/img/avatars/5.png,,2024-12-03 15:48:40.510 +0700,2024-12-03 15:48:40.510 +0700
+5,ryelland4@de.vu,RNqceiBJWMjI,Rosaleen,Yelland,"658-130-3536",/assets/img/avatars/6.png,,2024-12-03 15:48:40.510 +0700,2024-12-03 15:48:40.510 +0700
+1,admin@mail.com,AXI3CxWdu,Enrico,De Ferraris,"506-883-2766",/assets/img/avatars/7.png,true,2024-12-03 15:48:40.510 +0700,2024-12-03 15:48:40.510 +0700

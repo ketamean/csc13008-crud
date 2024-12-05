@@ -30,7 +30,7 @@ controller.add = async (req, res) => {
     })
     res.redirect('/users')
   } catch (err) {
-    console.err(err)
+    console.error(err)
   }
 }
 
